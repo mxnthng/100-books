@@ -21,3 +21,10 @@
   - Người không làm chủ được bản thân mình sẽ không bao giờ làm chủ được người khác.
   - H: Trong tất cả các tội ác thì tội ác nào là phổ biến và có sức mạnh hủy diệt nhất? - Đ: Sợ hãi và ngu dốt.
   - H: Lợi ích lớn nhất mà con người nhận được thông qua nghịch cảnh là gì? - Đ: Lợi ích lớn nhất của nghịch cảnh là nó có thể - và thường là như vậy - bắt một người thay đổi thói quen tư duy của mình, do đó nó cũng có thể phá vỡ và điều chỉnh lại sức mạnh của nhịp điệu thôi miên.
+
+### 4. Atomic habits - James Clear
+- Thời gian đọc: 12/1/2023 - ?
+- Thể loại: Self-help
+- Sách nói về tầm quan trọng của những thói quen nhỏ bé đối với sự phát triển của con người.
+- Một số bài học rút ra:
+  - Nên tập trung vào hệ thống (cách mình hướng đến kết quả) thay vì kết quả hay đích đến.
