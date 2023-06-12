@@ -48,3 +48,9 @@
   - Nếu bạn muốn thay đổi điều gì đó, chỉ có cách là thay đổi ngay tại thời điểm hiện tại.
   - Bạn không thể trở nên hạnh phúc, theo tôi, hạnh phúc chỉ là cảm nhận tại thời điểm đó thôi. Chỉ có những cảm nhận tức thời đó mới là hạnh phúc.
   - Hạnh phúc không phải là thứ bạn có được sau khi đáp ứng một vài điều kiện. Hạnh phúc chỉ là "cảm nhận" trong khoảnh khắc hiện tại mà thôi.
+
+### 6. Bức xúc không làm ta vô can - Đặng Hoàng Giang
+- Thời gian đọc: 5/6/2023 - 11/6/2023
+- Thể loại: Chính luận, Tùy bút
+- Đánh giá: 9/10. Nên đọc để có những góc nhìn khác và thú vị về cuộc sống, giai cấp, văn hóa Việt.
+- Tóm tắt: Sách đưa ra và phân tích các khía cạnh trong đời sống và văn hóa người Việt hiện đại của những năm 2014, 2015. Tác giả đã "mổ xẻ" những vấn đề này bằng "con dao mổ" tri thức, mang lại cho người đọc nhiều góc nhìn sâu sắc về những vấn đề trong xã hội Việt Nam.
