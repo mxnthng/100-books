@@ -1,13 +1,13 @@
 # Dự án cá nhân: Đọc 100 quyển sách trong năm 2023
 
 ### 1. Điều kỳ diệu của tiệm tạp hóa Namiya - Higashimo Keigo
-- Thời gian đọc: 4/1/2023-6/1/2023
-- Thể loại: Tiểu thuyết
+- Thời gian đọc: 4/1/2023 - 6/1/2023
+- Thể loại: Tiểu thuyết, Trinh thám
 - Đánh giá: 10/10. Sách mang mình tình yêu đọc sách quay lại cho mình.
 - Tóm tắt: Câu chuyện về tiệm tạp hóa Namiya - nơi tư vấn thắc mắc cho mọi người vào mấy chục năm trước. Tình cờ vào lần giỗ thứ 32 của chủ tiệm, 3 tên trộm trốn vào tiệm tạp hóa nơi giờ đây đã là một cửa tiệm cũ kỹ hoang vắng, nhưng cũng là thời điểm quá khứ và hiện tại liên kết lại với nhau. Những mẩu chuyện được phác họa thông qua những bức thư nghe có vẻ không liên quan nhau nhưng lại có những kết nối vô cùng chặt chẽ, từ chuyện của cô vận động viên đấu kiếm cho đến chuyện của anh chàng nhạc sĩ hay cô bé với bức tượng chó gỗ,... Tất cả đều liên kết với nhau và với trại trẻ mồ côi Marumitsu. Những câu chuyện được kể qua từng bức thư gửi đến và gửi đi trôi qua nhẹ nhàng nhưng để lại nhiều bài học.
 
 ### 2. Những giấc mơ ở hiệu sách Morisaki - Yagisawa Satoshi
-- Thời gian đọc: 7/1/2023-10/1/2023
+- Thời gian đọc: 7/1/2023 - 10/1/2023
 - Thể loại: Tiểu thuyết
 - Đánh giá: 8/10. Nhẹ nhàng, sâu lắng.
 - Tóm tắt: Câu chuyện về cô bé Takako - người bị người yêu lừa dối, cô bỏ việc, rơi vào những ngày vô định, vùi đầu vào ngủ nướng. Cuộc gọi điện từ người cậu 10 năm không gặp đã thay đổi cuộc đời cô khi đến cửa tiệm sách cũ của cậu để làm việc. Cô tìm thấy tình yêu đọc sách và có những cuộc gặp gỡ mới với nhiều con người, tìm thấy nhiều điều mới mẻ mà trước đây cô chưa từng biết. Câu chuyện là bài học về sự dũng cảm đối mặt với khó khăn. Tình tiết trong truyện khá nhẹ nhàng, sâu lắng, có thể chữa lành những tâm hồn tổn thương.
@@ -33,7 +33,7 @@
 - Một số bài học rút ra:
   - Nên tập trung vào hệ thống (cách mình hướng đến kết quả) thay vì kết quả hay đích đến.
 
-### 5. Lối sống tối giản của người NHật - Sasaki Fumio
+### 5. Lối sống tối giản của người Nhật - Sasaki Fumio
 - Thời gian đọc: 29/5/2023 - 4/6/2023
 - Thể loại: Self-help
 - Đánh giá: 9/10. Một góc nhìn khác cho mình về một lối sống khá thú vị.
@@ -54,3 +54,9 @@
 - Thể loại: Chính luận, Tùy bút
 - Đánh giá: 9/10. Nên đọc để có những góc nhìn khác và thú vị về cuộc sống, giai cấp, văn hóa Việt.
 - Tóm tắt: Sách đưa ra và phân tích các khía cạnh trong đời sống và văn hóa người Việt hiện đại của những năm 2014, 2015. Tác giả đã "mổ xẻ" những vấn đề này bằng "con dao mổ" tri thức, mang lại cho người đọc nhiều góc nhìn sâu sắc về những vấn đề trong xã hội Việt Nam.
+
+### 7. Bạch dạ hành - Higashimo Keigo
+- Thời gian đọc: 12/6/2023 - 21/6/2023
+- Thể loại: Tiểu thuyết, Trinh thám
+- Đánh giá: 10+/10. Quá xuất sắc.
+- Tóm tắt: 2 đứa trẻ - 2 con người - 2 số phận - 2 thái cực trái ngược, tưởng chừng không liên quan gì đến nhau, nhưng tất cả mọi sự việc sự vật đều có mối liên kết vô hình nhưng vô cùng chặt chẽ. Yukiho - bên ngoài là một cô bé, người phụ nữ tuyệt vời nhưng ẩn bên trong lại là một nhân cách độc ác, không từ bất kỳ thủ đoạn nào và luôn lợi dụng tất cả mọi người miễn là được sống trong ánh hào quang. Ngược lại, Ryoji tuy luôn sống trong bóng tối nhưng lại ẩn chứa trong mình là một tâm hồn và nhân cách tốt. Anh luôn quan tâm đến những người bên cạnh mình, từ giúp bạn thoát tội rồi để lại cả cửa hàng máy tính cho bạn và người yêu, không quên cắt giấy chúc mừng hạnh phúc bạn, đến đẻ lại dàn máy tính cho cô thực tập sinh dược mà anh sống cùng. Còn Yukiho, bất kỳ ai cản trở cô trên hành trình sống trong hào quang, đều bị cô tìm cách lợi dụng hoặc dìm xuống bằng mọi cách, thậm chí ở kết, Ryoji dù vẫn nghĩ cho Yukiho mà hi sinh cả mạng sống để bảo vệ cô thì cô cũng không mảy may thương tiếc. Họ, một người sống trong bóng tối để người kia sống trong hào quang, như cách mà cựu cảnh sát gìa đã nói, tựa tôm pháo và cá bống trắng. Nạn ấu dâm, gia đình tan vỡ, cái nghèo đã sinh ra 2 hình hài méo mó, bất hạnh như vậy. Yukiho và Ryoju là một hình ảnh đối lập trong đối lập rất hay mà tác giả đã khắc họa nên thông qua cách kể chuyện đan xen song song 2 cuộc đời dù nhìn qua tưởng không mấy liên quan nhưng lại không thể tách rời. Sau khi đọc xong mình tự hỏi liệu ai sẽ là mặt trời mới của Yukiho đây khi mà Ryoji đã không còn, và liệu cô ta sẽ tiếp tục làm những gì nữa để giữ được ánh hào quang ấy?
