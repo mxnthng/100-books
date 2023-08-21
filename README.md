@@ -1,4 +1,4 @@
-# Dự án cá nhân: Đọc 100 quyển sách trong năm 2023
+# Dự án cá nhân: Đọc 100 quyển sách
 
 ### 1. Điều kỳ diệu của tiệm tạp hóa Namiya - Higashimo Keigo
 - Thời gian đọc: 4/1/2023 - 6/1/2023
@@ -36,7 +36,7 @@
 ### 5. Lối sống tối giản của người Nhật - Sasaki Fumio
 - Thời gian đọc: 29/5/2023 - 4/6/2023
 - Thể loại: Self-help
-- Đánh giá: 9/10. Một góc nhìn khác cho mình về một lối sống khá thú vị.
+- Đánh giá: 7/10. Một góc nhìn khác cho mình về một lối sống khá thú vị.
 - Tóm tắt: Sách viết về nghệ thuật sống mà trong đó tập trung đến những điều quan trọng bằng việc bỏ đi những thứ không quan trọng là đồ đạc bằng thứ gọi là "nghệ thuật vứt đồ". Đa số đồ đạc chúng ta có không thực sự cần thiết và chúng là cách mọi người dùng để thể hiện bản thân mình ra ngoài. Nhưng việc mình có gì nó sẽ nằm tự trong bản thân mình thông qua kiến thức và những trải nghiệm thay vì đồ đạc. Sách cũng khuyến khích mọi người chi tiêu cho những trải nghiệm thay cho việc mua sắm đồ đạc không cần thiết. Ngoài ra sách cũng nêu lên rất nhiều công dụng từ việc vứt đồ như có thêm thời gian và không gian, có thêm đầu óc để dành cho những thứ quan trọng. Và hơn nữa chúng ta nên tận hưởng hiện tại thay vì quá khứ hay lo lắng cho tương lai để cảm nhận được toàn bộ thứ gọi là hạnh phúc. Cuối cùng, hãy biết ơn.
 - Một số trích dẫn yêu thích:
   - Những thứ chất đống trong phòng không phải là bụi bẩn hay rác thải, mà chính là "quá khứ của bản thân mình" đã bị bám bụi trong thời gian dài.
@@ -60,3 +60,18 @@
 - Thể loại: Tiểu thuyết, Trinh thám
 - Đánh giá: 10+/10. Quá xuất sắc.
 - Tóm tắt: 2 đứa trẻ - 2 con người - 2 số phận - 2 thái cực trái ngược, tưởng chừng không liên quan gì đến nhau, nhưng tất cả mọi sự việc sự vật đều có mối liên kết vô hình nhưng vô cùng chặt chẽ. Yukiho - bên ngoài là một cô bé, người phụ nữ tuyệt vời nhưng ẩn bên trong lại là một nhân cách độc ác, không từ bất kỳ thủ đoạn nào và luôn lợi dụng tất cả mọi người miễn là được sống trong ánh hào quang. Ngược lại, Ryoji tuy luôn sống trong bóng tối nhưng lại ẩn chứa trong mình là một tâm hồn và nhân cách tốt. Anh luôn quan tâm đến những người bên cạnh mình, từ giúp bạn thoát tội rồi để lại cả cửa hàng máy tính cho bạn và người yêu, không quên cắt giấy chúc mừng hạnh phúc bạn, đến đẻ lại dàn máy tính cho cô thực tập sinh dược mà anh sống cùng. Còn Yukiho, bất kỳ ai cản trở cô trên hành trình sống trong hào quang, đều bị cô tìm cách lợi dụng hoặc dìm xuống bằng mọi cách, thậm chí ở kết, Ryoji dù vẫn nghĩ cho Yukiho mà hi sinh cả mạng sống để bảo vệ cô thì cô cũng không mảy may thương tiếc. Họ, một người sống trong bóng tối để người kia sống trong hào quang, như cách mà cựu cảnh sát gìa đã nói, tựa tôm pháo và cá bống trắng. Nạn ấu dâm, gia đình tan vỡ, cái nghèo đã sinh ra 2 hình hài méo mó, bất hạnh như vậy. Yukiho và Ryoju là một hình ảnh đối lập trong đối lập rất hay mà tác giả đã khắc họa nên thông qua cách kể chuyện đan xen song song 2 cuộc đời dù nhìn qua tưởng không mấy liên quan nhưng lại không thể tách rời. Sau khi đọc xong mình tự hỏi liệu ai sẽ là mặt trời mới của Yukiho đây khi mà Ryoji đã không còn, và liệu cô ta sẽ tiếp tục làm những gì nữa để giữ được ánh hào quang ấy?
+
+### 8. Rừng Na Uy - Haruki Murakami
+- Thời gian đọc: 22/6/2023 - 18/8/2023
+- Thể loại: Tiểu thuyết, Lãng mạn
+- Đánh giá: 9.5/10. Hay nhưng đen tối. Một cuốn tiểu thuyết đẹp và buồn, mang đến cho người đọc nhiều suy ngẫm về cuộc sống, tình yêu và sự mất mát.
+- Tóm tắt: Rượu, tình dục và cái chết. 3 thứ này được lặp đi lặp lại trong truyện rất nhiều lần, đến mức ta phải ám ảnh vì nó. Lấy bối cảnh nước Nhật những năm đầu thập niên 60 đầy biến động, câu chuyện xoay quanh 6 nhân vật là Watanabe Toru, Naoko, Kizuki, Midori, Nagawasa và Reiko. Naoko là người yêu của bạn thân thời niên thiếu của Toru là Midori, và sau này tình cảm của anh giành cho cô còn hơn cả tình yêu bình thường, ngỡ như anh sẽ như vậy cho đến khi gặp được Midori. Tuy vậy, thật khó để tóm tắt nội dung của cuốn sách này vì những xoay chuyển trong dòng cảm xúc của nhân vật được khắc họa vô cùng phức tạp. Bên cạnh đó là mối quan hệ giữa họ, lúc thì là Toru - Kizuki - Naoko, khi lại là Naoko - Toru - Midori, rồi Toru - Naoko - Reiko. Ở Rừng Na Uy, mỗi nhân vật đều mang trong mình một nỗi day dứt, nỗi ám ảnh về sự sống và cái chết, một nỗi cô đơn của người trẻ đang trưởng thành, cùng với đó là một sự vô định về cả quá khứ, hiện tại và tương lai. Có người chọn đối mặt và bước tiếp, như Toru, Midori, Reiko, nhưng cũng có người chọn cái chết để giải thoát chính mình, như Kizuki, Hatsumi hay cả Naoko. Cuốn sách đóng lại với một cái kết u ám, nhưng cũng là cái kết mở cho chính những bi kịch này. Sau khi dọn dẹp tàn tích trong lòng về cái chết của Naoko, Toru gọi cho Midori, để rồi chỉ nhận lại được mọt cái im lặng thật dài - "cái im lặng của tất cả những làn mưa bụi trên khắp thế gian đang rơi xuống tất cả những sân cỏ mới xén trên khắp thế gian". Sau cùng, Midori đã phá vỡ cái im lặng đó bằng một câu hỏi: "Cậu đang ở dâu?" để rồi Toru đã quay cuồng trong "vô số những hình nhân bước đi về nơi vô định". Cái kết đầy ám ảnh, đọng lại nhiều suy nghĩ cho người đọc.
+- Một số trích dẫn yêu thích:
+  - Sự chết tồn tại, không phải như một đối nghịch mà là một phần của sự sống. Bằng cách sống cuộc đời của mình, chúng ta đang nuôi dưỡng sự chết.
+  - Yêu một người khác là một chuyện tuyệt vời, và nếu tình yêu ấy là chân thành, không ai cuối cùng lại bị ném vào mê cung cả. Cậu phải có thêm lòng tin vào bản thân mới được.
+  - không có chân lí nào có thể làm dịu được nỗi đau buồn khi chúng ta mất một người yêu dấu. Không một chân lí nào, một tấm lòng trung thực nào, một sức mạnh nào, một tấm lòng từ ái nào, có thể làm dịu được nỗi đau buồn ấy. Chúng ta chỉ có thể chịu đựng nỗi đau ấy cho đến tận cùng và cố học được một điều gì đó, nhưng bài học ấy cũng lại chẳng có ích gì nữa khi chúng ta phải đối mặt với một nỗi đau buồn mới sẽ ập đến không biết lúc nào.
+
+### 9. Phía sau nghi can X - Higashimo Keigo
+- Thời gian đọc: 21/8/2023 - ?
+- Thể loại: Tiểu thuyết, Trinh thám, Tội phạm
+- 
