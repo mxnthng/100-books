@@ -72,6 +72,9 @@
   - không có chân lí nào có thể làm dịu được nỗi đau buồn khi chúng ta mất một người yêu dấu. Không một chân lí nào, một tấm lòng trung thực nào, một sức mạnh nào, một tấm lòng từ ái nào, có thể làm dịu được nỗi đau buồn ấy. Chúng ta chỉ có thể chịu đựng nỗi đau ấy cho đến tận cùng và cố học được một điều gì đó, nhưng bài học ấy cũng lại chẳng có ích gì nữa khi chúng ta phải đối mặt với một nỗi đau buồn mới sẽ ập đến không biết lúc nào.
 
 ### 9. Phía sau nghi can X - Higashimo Keigo
-- Thời gian đọc: 21/8/2023 - ?
+- Thời gian đọc: 21/8/2023 - 30/8/2023
 - Thể loại: Tiểu thuyết, Trinh thám, Tội phạm
-- 
+- Đánh giá: 9/10. Plot twist cực to, tác giả đã xây dựng tâm lý nhân vật xuất sắc.
+- Tóm tắt: Chuyện bắt đầu với cái chết của Togashi - chồng cũ của Yasuko sau khi giằng co trong 1 lần hắn tìm đến gây rối với 2 mẹ con Yasuko và Misato. Sau đó việc xử lý và phi tang cái xác là do hàng xóm của 2 mẹ con - 1 thiên tài toán học ẩn dật - Ishigami đề nghị giúp đỡ. Kể từ đây mạch truyện chậm rãi và cả cảnh sát và chính độc giả bị cuốn vào mê cung do chính Ishigami sắp đặt nên. Chỉ có duy nhất giáo sư vật lý Yukawa - bạn cũ của Ishigami là hiểu được chân tướng. Đó là cả một cuộc đấu trí giữa 2 thiên tài Ishigami và Yukawa. Để rồi cuối cùng sự thật - cái mà độc giả có vẻ như đã biết ngay từ những chương đầu, được phơi bày, thì ta mới vỡ lẽ ra. Tình yêu có thể kéo 1 người ra khỏi tuyệt vọng, nhưng cũng vì nó mà người ta có thể làm bất cứ điều gì, dù nó có tàn nhẫn đến mức nào. Tác giả đã khắc họa 1 vụ án thú vị, hệt như một bài toán mà Ishigami là người ra đề còn cảnh sát, độc giả chính là những thí sinh, cùng với đó là dàn tâm lý nhân vật phát triển xuyên suốt câu chuyện. Để rồi đến cuối cùng, "ẩn số X được phơi bày ra lại không mang lai hạnh phúc cho bất cứ ai".
+
+### 10.
