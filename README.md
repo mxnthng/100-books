@@ -77,4 +77,6 @@
 - Đánh giá: 9/10. Plot twist cực to, tác giả đã xây dựng tâm lý nhân vật xuất sắc.
 - Tóm tắt: Chuyện bắt đầu với cái chết của Togashi - chồng cũ của Yasuko sau khi giằng co trong 1 lần hắn tìm đến gây rối với 2 mẹ con Yasuko và Misato. Sau đó việc xử lý và phi tang cái xác là do hàng xóm của 2 mẹ con - 1 thiên tài toán học ẩn dật - Ishigami đề nghị giúp đỡ. Kể từ đây mạch truyện chậm rãi và cả cảnh sát và chính độc giả bị cuốn vào mê cung do chính Ishigami sắp đặt nên. Chỉ có duy nhất giáo sư vật lý Yukawa - bạn cũ của Ishigami là hiểu được chân tướng. Đó là cả một cuộc đấu trí giữa 2 thiên tài Ishigami và Yukawa. Để rồi cuối cùng sự thật - cái mà độc giả có vẻ như đã biết ngay từ những chương đầu, được phơi bày, thì ta mới vỡ lẽ ra. Tình yêu có thể kéo 1 người ra khỏi tuyệt vọng, nhưng cũng vì nó mà người ta có thể làm bất cứ điều gì, dù nó có tàn nhẫn đến mức nào. Tác giả đã khắc họa 1 vụ án thú vị, hệt như một bài toán mà Ishigami là người ra đề còn cảnh sát, độc giả chính là những thí sinh, cùng với đó là dàn tâm lý nhân vật phát triển xuyên suốt câu chuyện. Để rồi đến cuối cùng, "ẩn số X được phơi bày ra lại không mang lai hạnh phúc cho bất cứ ai".
 
-### 10.
+### 10. Và rồi chẳng còn ai (Mười người da đen nhỏ) - Agatha Christie
+- Thời gian đọc: 6/9/2023 - ?/9/2023
+- Thể loại: Tiểu thuyết, Kỳ bí
